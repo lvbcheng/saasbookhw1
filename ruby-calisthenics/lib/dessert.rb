@@ -18,6 +18,7 @@
 # for non-jelly-bean desserts should be unchanged.
 
 # class: Dessert
+# attributes: name, calories
 class Dessert
   attr_accessor :name, :calories
 
