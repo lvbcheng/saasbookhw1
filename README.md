@@ -17,3 +17,10 @@
 # Note: timeout is in seconds so 3600 is one hour, 28800 is eight hours
 # git config --global credential.helper "cache --timeout=28800"
 #
+# Things I want to try out:
+# From stackoverflow
+# If you want to remove all local changes from your working copy, simply
+# stash them:
+# git stash save --keep-index
+# Drop all of your local changes
+# git stash drop
