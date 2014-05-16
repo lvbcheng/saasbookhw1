@@ -16,6 +16,7 @@
 # Modify delicious? to return false if the flavor is licorice,
 # but true for all other flavors. The behavior of delicious?
 # for non-jelly-bean desserts should be unchanged.
+# Author: Beethoven Cheng
 # class: Dessert
 class Dessert
   attr_accessor :name, :calories

@@ -7,3 +7,7 @@
 # git commit -m "first commit"
 # git remote add origin https://github.com/lvbcheng/saasbookhw1.git
 # git push -u origin master
+
+# other useful commands
+# git pull -f --all
+# git push
