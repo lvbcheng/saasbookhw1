@@ -15,4 +15,5 @@
 #
 # Credential Helper: So I don't have to type in my password all the time
 # Note: timeout is in seconds so 3600 is one hour
-# git config --global credential.helper "cache --timeout=3600"
+# git config --global credential.helper "cache --timeout=7200"
+#
